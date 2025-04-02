@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix2">
+        <file>icons/file.png</file>
+        <file>icons/clear.png</file>
+        <file>icons/redo.png</file>
+        <file>icons/back.png</file>
+        <file>icons/earse.png</file>
+        <file>icons/colorbox.png</file>
+        <file>icons/width.png</file>
+        <file>icons/pen.png</file>
+        <file>icons/dowload.png</file>
+        <file>icons/hint.png</file>
+    </qresource>
+</RCC>

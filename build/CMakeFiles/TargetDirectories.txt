@@ -1,0 +1,9 @@
+/Users/wuketian/project12/build/CMakeFiles/project12.dir
+/Users/wuketian/project12/build/CMakeFiles/edit_cache.dir
+/Users/wuketian/project12/build/CMakeFiles/rebuild_cache.dir
+/Users/wuketian/project12/build/CMakeFiles/list_install_components.dir
+/Users/wuketian/project12/build/CMakeFiles/install.dir
+/Users/wuketian/project12/build/CMakeFiles/install/local.dir
+/Users/wuketian/project12/build/CMakeFiles/install/strip.dir
+/Users/wuketian/project12/build/CMakeFiles/project12_autogen_timestamp_deps.dir
+/Users/wuketian/project12/build/CMakeFiles/project12_autogen.dir
